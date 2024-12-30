@@ -1,1 +1,1 @@
-rmedia is an operating system that is optimized for media content: watching video and listening to audio. rmedia is based on Android and has the ability to run pre-installed applications. rmedia also features Animusic - it's essentially a regular music visualizer, but you can do anything in the rmedia Editor. It is also possible to watch movies through the rmedia Films application. And in general, this is the coolest OS from Right!
+under construction dont watch pls
